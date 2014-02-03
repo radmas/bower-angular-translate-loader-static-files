@@ -3,7 +3,6 @@
   "version": "0.1.6",
   "main": "./angular-translate-loader-static-files.js",
   "dependencies": {
-    "angular": "~1.2.10",
-    "angular-translate": "~1.1.1"
+    "angular": "~1.2.10"
   }
 }
